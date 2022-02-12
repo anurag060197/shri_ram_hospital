@@ -6,7 +6,7 @@ export default function NavbarComponent() {
     return (
         <Navbar collapseOnSelect fixed="top" expand="lg" className='navbar-custom' variant="primary" data-aos="zoom-in" data-aos-duration="1000">
             <Container>
-                <Navbar.Brand href="#"><img src="/LOGO.jpg" alt="Logo" /> <b>S<span>hri</span> R<span>am</span> H<span>ospital</span></b></Navbar.Brand>
+                <Navbar.Brand href="#"><img src="./LOGO.jpg" alt="Logo" /> <b>S<span>hri</span> R<span>am</span> H<span>ospital</span></b></Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav" className="justify-content-end">
                     <Nav>
