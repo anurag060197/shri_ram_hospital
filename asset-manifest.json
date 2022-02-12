@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/shri_ram_hospital/static/css/main.6e1b2f93.chunk.css",
+    "main.css": "/shri_ram_hospital/static/css/main.54f3e508.chunk.css",
     "main.js": "/shri_ram_hospital/static/js/main.0760e585.chunk.js",
     "main.js.map": "/shri_ram_hospital/static/js/main.0760e585.chunk.js.map",
     "runtime-main.js": "/shri_ram_hospital/static/js/runtime-main.c9ead2d8.js",
@@ -10,7 +10,7 @@
     "static/js/2.c771354b.chunk.js.map": "/shri_ram_hospital/static/js/2.c771354b.chunk.js.map",
     "index.html": "/shri_ram_hospital/index.html",
     "static/css/2.133835a3.chunk.css.map": "/shri_ram_hospital/static/css/2.133835a3.chunk.css.map",
-    "static/css/main.6e1b2f93.chunk.css.map": "/shri_ram_hospital/static/css/main.6e1b2f93.chunk.css.map",
+    "static/css/main.54f3e508.chunk.css.map": "/shri_ram_hospital/static/css/main.54f3e508.chunk.css.map",
     "static/js/2.c771354b.chunk.js.LICENSE.txt": "/shri_ram_hospital/static/js/2.c771354b.chunk.js.LICENSE.txt",
     "static/media/Profile.f06b069c.jpg": "/shri_ram_hospital/static/media/Profile.f06b069c.jpg",
     "static/media/chevron.247ef60a.svg": "/shri_ram_hospital/static/media/chevron.247ef60a.svg",
@@ -39,7 +39,7 @@
     "static/js/runtime-main.c9ead2d8.js",
     "static/css/2.133835a3.chunk.css",
     "static/js/2.c771354b.chunk.js",
-    "static/css/main.6e1b2f93.chunk.css",
+    "static/css/main.54f3e508.chunk.css",
     "static/js/main.0760e585.chunk.js"
   ]
 }
