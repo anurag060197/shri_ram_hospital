@@ -1,0 +1,24 @@
+.team .slick-arrow.slick-prev, .team .slick-arrow.slick-next {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+  border-radius: 5px;
+}
+.team .slick-prev::before, .team .slick-next::before {
+  display: none;
+}
+.team .slick-arrow.slick-next {
+  right: -80px;
+}
+.team .slick-arrow.slick-prev {
+  left: -80px;
+}
+.team .slick-dots li button:before {
+  font-size: 15px;
+}
+.team .slick-dots li {
+  top: 5px;
+}

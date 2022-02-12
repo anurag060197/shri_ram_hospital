@@ -1,0 +1,70 @@
+.contact{
+    background:#354046;
+}
+.contact .contact-span{
+    color:#eee;
+    font-size: 13px;
+}
+.contact p{
+    font-size: 1rem;
+    color:#eee;
+    padding: 1rem 0;
+}
+.contact .col-md-4 img{
+    height: 40px;
+    width: 60px;
+    border-radius: 5px;
+}
+.contact .col-md-4{
+    padding: 1.3rem
+}
+  
+.contact .col-md-4:nth-child(1) a{
+    font-size: 2rem;
+    color:#fff;
+}
+
+/* .contact .col-md-4 .animation{
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes example {
+    0%   {color:red;}
+    25%  {color:yellow;}
+    50%  {color:blue;}
+    75%  {color:green;}
+    100% {color:red;}
+} */
+
+.contact .col-md-4:nth-child(1) a span{
+    color:#0059A3;
+}
+  
+.contact a{
+    font-size: 1rem;
+    color:#ccc;
+    display: block;
+}
+  
+.contact h3{
+    color:#fff;
+    font-size: 2rem;
+}
+  
+.contact a:hover{
+    color:#0188DF;
+}
+  
+/* .footer .credit{
+    color:#fff;
+    width:80%;
+    margin:0;
+    padding:2rem 0;
+    padding-bottom: 2rem;
+    border-top: .1rem solid #ccc !important;
+}
+  
+.footer .credit span{
+    color:#0188DF;
+}   */

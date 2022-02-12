@@ -1,0 +1,21 @@
+nav div img{
+    height: 40px;
+    width: 60px;
+}
+.navbar-custom{
+    box-shadow: 5px 5px 10px 2px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+    color: #0059A3;
+}
+.navbar-custom div .navbar-brand{
+    font-size: 1.5rem;
+}
+.navbar-custom div .navbar-collapse{
+    font-size: 1.2rem;
+}
+.navbar-custom div span{
+    color: #354046;
+}
+/* .navbar-custom .navbar-text{
+    color: #0059A3 !important;
+} */

@@ -1,0 +1,61 @@
+.testimonial{
+    background:url(./images/testimonial-bg.jpg), linear-gradient(#354046,#354046) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply; 
+}
+  
+.testimonial .heading{
+    color:#fff;
+}
+
+.testimonial .box-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-bottom: 5rem;
+}
+  
+.testimonial .box-container .box{
+    background:#fff;
+    width:25rem;
+    margin:5rem 1rem;
+    padding:1.5rem;
+    position: relative;
+}
+  
+.testimonial .box-container .box p{
+    font-size: 1rem;
+    color:#354046;
+}
+  
+.testimonial .box-container .box h3{
+    text-align: end;
+    color:#0188DF;
+}
+  
+.testimonial .box-container .box span{
+    text-align: end;
+    color: #354046;
+    display: block;
+    font-size: 1.5rem;
+}
+  
+.testimonial .box-container .box img{
+    position: absolute;
+    bottom: -7.5rem; left: -1rem;
+    height:5rem;
+    width:5rem;
+    border-radius: 50%;
+    object-fit: cover;
+}
+  
+.testimonial .box-container .box::before{
+    content: '';
+    position: absolute;
+    bottom: -1rem; left:.4rem;
+    height:2rem;
+    width:2rem;
+    background:#fff;
+    transform: rotate(45deg);
+}  
