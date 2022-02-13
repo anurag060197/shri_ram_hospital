@@ -7,7 +7,7 @@ export default function NavbarComponent() {
         <Navbar collapseOnSelect fixed="top" expand="lg" className='navbar-custom' variant="primary" data-aos="zoom-in" data-aos-duration="1000">
             <Container>
                 <Navbar.Brand href="#"><img src="./LOGO.jpg" alt="Logo" /> <b>S<span>hri</span> R<span>am</span> H<span>ospital</span></b></Navbar.Brand>
-                <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+                <Navbar.Toggle aria-controls="responsive-navbar-nav" variant="primary"/>
                 <Navbar.Collapse id="responsive-navbar-nav" className="justify-content-end">
                     <Nav>
                         <NavDropdown title="Services" id="collasible-nav-dropdown">
@@ -19,7 +19,7 @@ export default function NavbarComponent() {
                             <NavDropdown.Item href="#packege">Packege</NavDropdown.Item>
                         </NavDropdown>
                         <Nav.Link href="#team">Our Team</Nav.Link>
-                        <Nav.Link href="#facility">Our Facility</Nav.Link>
+                        <Nav.Link href="#facility">Gallery</Nav.Link>
                         <Nav.Link href="#about-us">About us</Nav.Link>
                         <Nav.Link href="#faq">FAQ</Nav.Link>
                         <Nav.Link href="#contact">Contact</Nav.Link>

@@ -16,6 +16,29 @@ nav div img{
 .navbar-custom div span{
     color: #354046;
 }
-/* .navbar-custom .navbar-text{
-    color: #0059A3 !important;
-} */
+.navbar-toggler{
+    color: transparent;
+    border-radius: 0 !important;
+    height: 2rem;
+    width: 3rem;
+    background-image:
+    linear-gradient(
+        0deg,
+        rgba(255, 255, 255, 0) 60%,
+        rgba(255, 255, 255, 1) 60%,
+        rgba(255, 255, 255, 1) 75%,            
+        rgba(255, 255, 255, 0) 75%                       
+    ),
+    linear-gradient(
+        0deg,
+        rgba(255, 255, 255, 0) 25%,
+        rgba(255, 255, 255, 1) 25%,
+        rgba(255, 255, 255, 1) 40%,            
+        rgba(255, 255, 255, 0) 40%                       
+    ),
+    linear-gradient(
+        135deg,
+        #0059A3, 
+        #3b85c2             
+    ) ;
+}
