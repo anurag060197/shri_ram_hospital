@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shri_ram_hospital/static/css/main.0b5ce86c.chunk.css",
-    "main.js": "/shri_ram_hospital/static/js/main.43b79aac.chunk.js",
-    "main.js.map": "/shri_ram_hospital/static/js/main.43b79aac.chunk.js.map",
+    "main.js": "/shri_ram_hospital/static/js/main.e85dc8fe.chunk.js",
+    "main.js.map": "/shri_ram_hospital/static/js/main.e85dc8fe.chunk.js.map",
     "runtime-main.js": "/shri_ram_hospital/static/js/runtime-main.c9ead2d8.js",
     "runtime-main.js.map": "/shri_ram_hospital/static/js/runtime-main.c9ead2d8.js.map",
     "static/css/2.133835a3.chunk.css": "/shri_ram_hospital/static/css/2.133835a3.chunk.css",
@@ -41,6 +41,6 @@
     "static/css/2.133835a3.chunk.css",
     "static/js/2.c771354b.chunk.js",
     "static/css/main.0b5ce86c.chunk.css",
-    "static/js/main.43b79aac.chunk.js"
+    "static/js/main.e85dc8fe.chunk.js"
   ]
 }
