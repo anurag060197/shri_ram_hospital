@@ -16,9 +16,10 @@ function Contact() {
                     </div>
                     <div className="col-md-4 text-center" data-aos="fade-up" data-aos-duration="1000">
                         <h3><CallIcon style={{ width: 40, height: 40, color: 'white' }}/> Contact Us</h3>
-                        <a href="tel:+4733378901"><strong>Eye Care Service:</strong> +4733378901</a>
-                        <a href="tel:+4733378901"><strong>Dental Service:</strong> +4733378901</a>
-                        <a href="tel:+4733378901"><strong>Diagnostic Service:</strong> +4733378901</a>
+                        <a href="tel:7999186566"><strong>Eye Care Service:</strong> 7999186566</a>
+                        <a href="tel:7415959419"><strong>Diagnostic Service:</strong> 7415959419</a>
+                        <a href="tel:7999186566"><strong>Sugar Service:</strong> 7999186566</a>
+                        <a href="tel:8770776558"><strong>Dental Service:</strong> 8770776558</a>
                         <a href="https://www.google.com/maps/place/Shreeram+Hospital+%26+Eye+Care+Center/@23.2099807,82.2021081,17.78z/data=!4m5!3m4!1s0x39862abd2235bb27:0x8b01c03e322d1696!8m2!3d23.21013!4d82.20238" target="_blank">
                             <strong>Address:</strong> Ring road, Manendragarh, Koriya, Chhattisgarh
                         </a>

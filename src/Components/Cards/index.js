@@ -114,7 +114,7 @@ function Cards() {
                             </div>
                             <div>
                                 <p><b>{obj.price1}<span className="cards-crossed-line"><b>{obj.crossed}</b></span>{obj.price2}</b></p>
-                                <span className="cards-animation"><CallIcon style={{ width: 25, height: 25 }}/><b> Book Appointment </b><a href="tel:7999186566"> 7999186566</a></span>
+                                <span className="cards-animation"><CallIcon style={{ width: 25, height: 25 }}/><b> Book Appointment </b><a href="tel:7415959419"> 7415959419</a></span>
                             </div>
                         </div>
                     )

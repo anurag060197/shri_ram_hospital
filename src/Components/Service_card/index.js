@@ -135,7 +135,7 @@ function Service_card() {
                     })}
                 </div>
                 <div>
-                    <span><CallIcon style={{ width: 40, height: 40 }}/> Book Appointment <a href="tel:7415959419"> 7415959419</a></span>
+                    <span><CallIcon style={{ width: 40, height: 40 }}/> Book Appointment <a href="tel:7999186566"> 7999186566</a></span>
                 </div>
             </div>
             <div className="card-body" id='dental-service' data-aos="zoom-in" data-aos-duration="1000">

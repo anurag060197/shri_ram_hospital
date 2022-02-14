@@ -13,7 +13,7 @@ import img4 from './images/img4.jpg';
 const team1 = {
   name: "Dr. Ayush Singh",
   position: ", BDS, Implantologist",
-  description: "Dr. Ayush Singh is a Dental Surgeon and Implantologist at Shree Ram Hospital, Manendragarh (C.G.). He has done his BDS from RCDSR, Bhilai and internship from Govt Dental College, Raipur. His area of interest is implantology and endodontics. He is a certified Implantologist from CSM, Korea. He has done many full mouth implant cases successfully and more than 3000 Root Canal Treatments (RCTs) till now. He has 7 years of experience and also practiced at various well known Dental Hospital in Raipur."
+  description: "Dr. Ayush Singh is a Dental Surgeon and Implantologist at Shree Ram Hospital, Manendragarh (C.G.). He has done his BDS from RCDSR, Bhilai and internship from Govt Dental College, Raipur. His area of interest is implantology and endodontics. He is a certified Implantologist from CSM, South Korea. He has done many full mouth implant cases successfully and more than 3000 Root Canal Treatments (RCTs) till now. He has 7 years of experience and also practiced at various well known Dental Hospital in Raipur."
 }
 const team2 = {
   name: "Dr. Namita Singh",
@@ -22,13 +22,13 @@ const team2 = {
 }
 const team3 = {
   name: "Dr. Sneha Singh",
-  position: ", MBBS, MS, FID",
+  position: ", MBBS, MD, FID",
   description: "Dr. Sneha Singh, consultant diabetologist & Pathologist at Shree Ram Hospital, Manendragarh (C.G), has done her MBBS from Govt Medical College, Rewa and post-graduation (MD) in Pathology from Indore. She has pursued fellowship in Diabetes from prestigious Apollo Hospital, New Delhi. She has 6 years of experience in treating diabetes patients. She has special expertise & interest in field of Cytology & hematology."  
 }
 const team4 = {
   name: "Dr. Anshul Singh",
-  position: ", MBBS, DOMS",
-  description: "Dr. Anshul Singh is working as Director & Cheif surgeon at Shree Ram Hospital & eye care center, Manendragarh (C.G). After his MBBS from Govt Medical College, Jabalpur, he did his post-graduation from Govt Medical College, Rewa and fellowship in anterior segment and IOL from the prestigious Aravind Eye Hospital, Coimbatore. He has served as senior consultant at Vasan Eye care and MGM eye hospital, Raipur. He has a vast experience in phaco surgeries, refractive surgeries and glaucoma surgeries."
+  position: ", MBBS, DOMS, MCH, FACS",
+  description: "Dr. Anshul Singh is working as Director & Cheif surgeon at Shree Ram Hospital & eye care center, Manendragarh (C.G). After his MBBS from Govt Medical College, Jabalpur, he did his post-graduation from Govt Medical College, Rewa and fellowship in anterior segment and IOL from the prestigious Aravind Eye Hospital, Coimbatore. He has done his refractive surgery training from new vision Lasik centre Mumbai. He has served as senior consultant at Vasan Eye care and MGM eye hospital, Raipur. He has a vast experience of more than 10000 phaco surgeries along with refractive surgeries and glaucoma surgeries."
 }
 const Team = () => {
   return (
