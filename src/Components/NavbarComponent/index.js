@@ -16,7 +16,7 @@ export default function NavbarComponent() {
                             <NavDropdown.Item href="#sugar-service">Sugar services</NavDropdown.Item>
                             <NavDropdown.Item href="#dental-service">Dental services</NavDropdown.Item>
                             <NavDropdown.Divider />
-                            <NavDropdown.Item href="#packege">Packege</NavDropdown.Item>
+                            <NavDropdown.Item href="#packege">Packages</NavDropdown.Item>
                         </NavDropdown>
                         <Nav.Link href="#team">Our Team</Nav.Link>
                         <Nav.Link href="#facility">Gallery</Nav.Link>

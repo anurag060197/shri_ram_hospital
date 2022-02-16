@@ -2,6 +2,7 @@
     margin: 2rem;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 .cards-container .cards-div{
     display: flex;
