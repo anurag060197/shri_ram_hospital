@@ -7,7 +7,7 @@ const eye_care_services1 = {
         "Bandage free topical phaco surgery",
         "Advance premium lenses like multifocal, toric & trifocal lenses available",
         "State of art technology for IOL power calculation, preoperative evaluation & OT",
-        "Most advanced phaco surgery without incision (day care surgery)"
+        "Most advanced phaco surgery without admission (day care surgery)"
     ],
     Glaucoma: [
         "Effective diagnosis and expert care",

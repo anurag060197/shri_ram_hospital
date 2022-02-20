@@ -42,3 +42,9 @@ nav div img{
         #3b85c2             
     ) ;
 }
+
+@media screen and (max-width: 991px){
+    .navbar-custom div .navbar-brand{
+        font-size: 1.3rem;
+    }
+}

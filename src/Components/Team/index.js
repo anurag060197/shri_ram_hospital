@@ -28,7 +28,7 @@ const team3 = {
 const team4 = {
   name: "Dr. Anshul Singh",
   position: ", MBBS, DOMS, MCH, FACS",
-  description: "Dr. Anshul Singh is working as Director & Cheif surgeon at Shree Ram Hospital & eye care center, Manendragarh (C.G). After his MBBS from Govt Medical College, Jabalpur, he did his post-graduation from Govt Medical College, Rewa and fellowship in anterior segment and IOL from the prestigious Aravind Eye Hospital, Coimbatore. He has done his refractive surgery training from new vision Lasik centre Mumbai. He has served as senior consultant at Vasan Eye care and MGM eye hospital, Raipur. He has a vast experience of more than 10000 phaco surgeries along with refractive surgeries and glaucoma surgeries."
+  description: "Dr. Anshul Singh is working as Director & Cheif surgeon at Shree Ram Hospital & eye care center, Manendragarh (C.G). After his MBBS from NSCB Medical College, Jabalpur, he did his post-graduation from Govt Medical College, Rewa and fellowship in anterior segment and IOL from the prestigious Aravind Eye Hospital, Coimbatore. He has done his refractive surgery training from new vision Lasik centre Mumbai. He has served as senior consultant at Vasan Eye care and MGM eye hospital, Raipur. He has a vast experience of more than 10000 phaco surgeries along with refractive surgeries and glaucoma surgeries."
 }
 const Team = () => {
   return (
