@@ -17,7 +17,6 @@
   position: absolute;
   opacity: 0;
   transition: opacity ease-in-out 0.4s;
-  background-color: #0059A3;
 }
 .slide img {
   width: 100%;
